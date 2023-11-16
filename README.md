@@ -9,6 +9,44 @@ O Self Manager é um projeto pessoal que visa ajudar os usuários a gerenciarem 
 - Registre suas entradas e saídas de dinheiro.
 - Mantenha um histórico financeiro para um monitoramento mais eficaz.
 
+### Metas de Economia
+
+- Estabeleça metas de economia para objetivos específicos, como férias, compra de um bem durável, ou emergências.
+- Acompanhe o progresso em direção a essas metas ao longo do tempo.
+
+### Relatórios Financeiros
+
+- Gere relatórios detalhados sobre os gastos, receitas e economias ao longo do tempo.
+- Visualize gráficos e tendências para entender melhor seus padrões financeiros.
+
+### Investimentos
+
+- Registre informações sobre investimentos, como ações, fundos mútuos, ou outros ativos financeiros.
+- Receba atualizações sobre o desempenho de seus investimentos e sua contribuição para seus objetivos financeiros.
+
+### Contas Bancárias e Cartões de Crédito
+
+- Vincule suas contas bancárias e cartões de crédito para obter um panorama centralizado das transações.
+- Classifique e categorize automaticamente as transações para facilitar o acompanhamento.
+
+### Planejamento Tributário
+
+- Receba lembretes sobre prazos fiscais importantes.
+- Armazene documentos fiscais relevantes para facilitar a preparação do imposto de renda.
+
+### Dívidas e Empréstimos
+
+- Registre informações sobre empréstimos e dívidas.
+- Acompanhe os saldos pendentes, pagamentos realizados e prazos de vencimento.
+
+### Importação de Extratos
+
+- Ofereça a capacidade de importar extratos bancários para facilitar o processo de registro de transações.
+
+### Conversão de Moeda
+
+- Suporte à conversão de moeda para usuários que lidam com transações em diferentes moedas.
+
 ## Saúde
 
 ### Calculadora de IMC
